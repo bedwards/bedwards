@@ -62,8 +62,6 @@ Built and maintained data infrastructure for Bitbucket Cloud serving 10+ million
 * Mentored global engineering teams on AWS best practices and data architecture  
 * Developed webhook systems handling thousands of third-party integrations
 
-## **Professional Experience (continued)**
-
 ### 21CT | Austin, TX
 
 Senior Software Engineer, Data Analytics | 2013–2015
@@ -90,8 +88,6 @@ Developed enterprise IT monitoring solutions analyzing thousands of network endp
 Network Engineer | 2005–2008
 
 Designed and implemented enterprise network architecture supporting healthcare operations. Automated network configuration management and developed security protocols.
-
-## **Professional Experience (continued)**
 
 ### Juniper Networks — Sunnyvale, CA
 
