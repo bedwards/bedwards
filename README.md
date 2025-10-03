@@ -26,7 +26,7 @@ Comprehensive analysis of student performance patterns across multiple dimension
 
 ---
 
-## **Core Competencies for Educational Data Engineering**
+## **Core Competencies for Data Engineering**
 
 **Data Pipeline Development:** ETL/ELT processes, data integration across multiple systems
 
