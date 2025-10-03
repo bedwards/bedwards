@@ -1,6 +1,6 @@
 # **Brian Mabry Edwards**
 
-**Data Engineer | Educational Technology Specialist**  
+**Data Analyst | Software Engineer**  
 Waco, Texas | 512-584-6841 | brian.mabry.edwards@gmail.com  
 linkedin.com/in/brian-mabry-edwards | github.com/bedwards
 
@@ -156,11 +156,3 @@ Implemented Cisco-based enterprise networks and developed security frameworks. C
 * **Cisco CCIE \#6187** | **Juniper JNCIE**  
 * Co-author: *"Interdomain Multicast Routing"* (Addison-Wesley, 2002\)  
 * Contributing author to IETF specifications
-
-## 
-
-## **Why TSTC**
-
-As a Waco resident committed to long-term community involvement, I'm excited to apply my data engineering skills to advance TSTC's educational mission. My proven ability to transform complex educational data into actionable insights, combined with extensive experience in cloud platforms and data pipeline development, aligns perfectly with your needs. I understand that effective data infrastructure isn't just about technical excellence—it's about empowering educators and students to achieve better outcomes.
-
-**Ready to contribute to TSTC's Excellence, Accountability, Service, and Integrity.**
