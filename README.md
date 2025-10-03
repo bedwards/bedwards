@@ -112,7 +112,7 @@ Implemented Cisco-based enterprise networks and developed security frameworks. C
 
 **Machine Learning Applications**
 
-* Kaggle competitor: Applied predictive models to NCAA tournament data (March Machine Learning Mania 2025\)  
+* [Kaggle competitor](https://www.kaggle.com/brianedwards/code): Applied predictive models to NCAA tournament data (March Machine Learning Mania 2025\)  
 * Implemented neural networks from scratch including transformer architectures  
 * Published technical tutorials on data analysis and model optimization
 
