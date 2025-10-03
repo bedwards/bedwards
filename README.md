@@ -12,7 +12,7 @@ linkedin.com/in/brian-mabry-edwards | github.com/bedwards
 
 Comprehensive analysis of student performance patterns across multiple dimensions using open educational data.
 
-![][image1.png]
+![](image1.png)
 
 **Technical Implementation:** Built end-to-end data pipeline analyzing enrollment patterns, assessment scores by subject, socioeconomic factors, and feature importance for student outcomes. Developed predictive models identifying key factors affecting student success including prior education levels and regional demographics.
 
