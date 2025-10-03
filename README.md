@@ -123,7 +123,7 @@ Implemented Cisco-based enterprise networks and developed security frameworks. C
 
 **Technical Knowledge Sharing**
 
-* Maintain technical blog with 50+ articles on data engineering and machine learning  
+* Maintain [technical blog](https://bedwards.github.io/technical-blog/) with 50+ articles on data engineering and machine learning  
 * Produce educational content explaining complex data concepts for general audiences  
 * Active participant in Project Euler (125+ problems solved)
 
