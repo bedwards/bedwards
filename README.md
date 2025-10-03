@@ -2,7 +2,7 @@
 
 **Data Analyst | Software Engineer**  
 Waco, Texas | 512-584-6841 | brian.mabry.edwards@gmail.com  
-linkedin.com/in/brian-mabry-edwards | github.com/bedwards
+[LinkedIn](https://linkedin.com/in/brian-mabry-edwards)
 
 ---
 
