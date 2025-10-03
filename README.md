@@ -140,5 +140,5 @@ Implemented Cisco-based enterprise networks and developed security frameworks. C
 
 * Power BI Data Analyst (2024)  
 * [Cisco CCIE \#6187](https://hofccie.weebly.com/) | Juniper JNCIE  
-* Co-author: *"Interdomain Multicast Routing"* (Addison-Wesley, 2002\)  
+* Co-author: [Interdomain Multicast Routing](https://www.oreilly.com/library/view/interdomain-multicast-routing/0201746123/) (O'Reilly/Addison-Wesley, 2002\)  
 * Contributing author to IETF specifications
