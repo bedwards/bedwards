@@ -6,7 +6,7 @@ Waco, Texas | 512-584-6841 | brian.mabry.edwards@gmail.com
 
 ---
 
-## **Featured Educational Data Projects**
+## **Featured Data Project**
 
 ### Student Learning Analytics Dashboard | UK School System Analysis | 2025
 
@@ -23,16 +23,6 @@ Comprehensive analysis of student performance patterns across multiple dimension
 ![](image2.png)
 
 ![](image3.png)
-
-## **Featured Educational Data Projects (continued)**
-
-### Classroom Data Transformation Project | Waco ISD | 2025
-
-Partnered with local educator to transform multi-platform learning data into actionable classroom insights.
-
-**Impact:** *Mr. Edwards helped me take raw student data from two different learning platforms and transform it into powerful visuals and groupings that I could actually use in the classroom. This work allowed me to identify at-risk students early, adjust my instruction around the most critical TEKS, and create differentiated small groups with confidence. The impact resulted in the highest percentage of student growth I've ever had in my teaching career.* — Kelley Stone, Future Educators Academy, Waco ISD
-
-**Deliverables:** Custom visualizations, automated student groupings, TEKS alignment analysis, at-risk identification system
 
 ---
 
